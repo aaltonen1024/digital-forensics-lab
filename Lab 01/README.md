@@ -237,9 +237,9 @@ For this section, provide the complete commands for all the exercises where aske
 7. If we wanted to look for files modified in the last 30 minutes in `/home` directory, what command would we want to use?  
 Hint: Explore how you can use `find` command to achieve this.
 8. What command can we use to display information about all active TCP connections on the system?
-9. Given [this corrupted image file](files/challenge.png), can you find a way to recover and view its contents?  
-Hint 1: A quick google search for “magic bytes” might help.  
-Hint 2: Explore how `hexedit` can help you here.  
+9. Given [this corrupted image file](files/challenge.png), can you find a way to recover and view its content to obtain the flag?  
+Hint 1: What's the magic byte for image file? 
+Hint 2: You could edit magic bytes using `hexedit`.  
     
     You may download the image using following command:  
     ```
