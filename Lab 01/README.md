@@ -222,7 +222,7 @@ For this section, provide the complete commands for all the exercises where aske
 
 ## Questions
 
-1. If we wanted to list all the `.txt` files in the current directory, what command would we want to use?
+1. If we wanted to list all the `.jpg` files in the current directory, what command would we want to use?
 2. What command can we use to read the contents of the file `/etc/passwd`?
 3. If we wanted to search for the string `Error` in all files in the `/var/log` directory, what would our command be?
 4. What would be the commands to calculate MD5 and SHA1 hashes of the file `/etc/passwd`? 
