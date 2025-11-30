@@ -243,5 +243,5 @@ Hint 2: You could edit magic bytes using `hexedit`.
     
     You may download the image using following command:  
     ```
-    curl https://raw.githubusercontent.com/vonderchild/digital-forensics-lab/main/Lab%2001/files/challenge.png -o challenge.png
+    curl https://raw.githubusercontent.com/aaltonen1024/digital-forensics-lab/main/Lab%2001/files/challenge.png -o challenge.png
     ```
