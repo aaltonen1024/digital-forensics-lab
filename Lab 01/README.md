@@ -14,29 +14,6 @@ Digital forensics is a process of using technology to gather evidence, investiga
 
 The common goal includes collecting evidence that can be used to prosecute suspects in a court of law.
 
-# Motivation
-
-> You are leaving a trail, albeit a digital one; it's a trail nonetheless.  
->
->  John Sammons 
-
-- **REvil Ransomware Group gets arrested in Russia**
-    
-    ![Investigator taking an initial look](files/images/revil.png)
-    
-    [Link to video](https://www.youtube.com/watch?v=OqEWuFmzhzs)
-    
-- **Author of Raccoon Stealer gets arrested in Netherlands**
-    
-    ![Tweet from @vxunderground](files/images/raccoon.png)
-    
-    [Link to tweet](https://twitter.com/vxunderground/status/1587304651426332673)
-    
-- **How a Floppy Disk brought the BTK killer down**
-    
-    [Link to article](https://www.refinery29.com/en-us/2019/08/240899/btk-killer-caught-when-how-floppy-disk-dennis-rader)
-    
-
 # Linux command line fundamentals
 
 This section serves as an introduction to the Linux command line tools which are essential for digital forensics.
