@@ -247,7 +247,6 @@ Here’s an example of event ID `1117` in the file `Microsoft-Windows-Windows De
 2. Given the Firefox profile of a suspect, answer the following:
     1. What’s the username and password stored in the saved logins?
     2. What’s the most frequently visited website?
-    3. What’s the name of the file downloaded by the suspect?
     
     The Firefox profile can be downloaded from [https://github.com/aaltonen1024/digital-forensics-lab/blob/main/Lab 02/files/Firefox.zip](https://github.com/aaltonen1024/digital-forensics-lab/blob/main/Lab%2002/files/Firefox.zip)
     
