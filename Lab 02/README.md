@@ -240,7 +240,7 @@ Here’s an example of event ID `1117` in the file `Microsoft-Windows-Windows De
 1. Given the registry file of a system that was compromised, answer the following:
     1. What’s the mouse double-click speed?
     2. What’s the most recent typed path accessed as recorded in the registry?
-    3. What’s the new value added to the registry by the malware in order to establish persistence over the system?
+    3. What’s the new value added to the registry by malware.exe in order to establish persistence over the system?
     
     The registry file can be downloaded from [https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab 02/files/NTUSER.DAT](https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab%2002/files/NTUSER.DAT)
     
