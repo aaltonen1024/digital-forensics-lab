@@ -25,7 +25,7 @@ The OOXML format stores Office documents as ZIP containers. This means that the 
 
 ## Anatomy of an OOXML document
 
-To take an example, let’s create a word document with the text `Hello World!` in it, transfer it over to our Kali machine and then unzip it.
+As an example,  a word document created using Windows' Microsoft Office with the text `Hello World!`. If we transfer the file to Linux and unzip it, it would look like this:
 
 ```
 $ unzip Doc1.docx                       
