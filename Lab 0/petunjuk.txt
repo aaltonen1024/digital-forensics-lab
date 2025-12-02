@@ -1,0 +1,1 @@
+`rahasia.bin` berisi pesan yang harus di-decode menggunakan Base64!
