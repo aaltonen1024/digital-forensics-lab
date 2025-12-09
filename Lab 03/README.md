@@ -305,7 +305,7 @@ As an example, consider the below image of Van Gogh’s Starry Night painting wi
 
 ![starry_night.png](files/starry_night.png)
 
-The image can be downloaded from [https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab 03/files/starry_night.png](https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab%2003/files/starry_night.png).
+The image can be downloaded from [https://github.com/aaltonen1024/digital-forensics-lab/blob/main/Lab 03/files/starry_night.png](https://github.com/aaltonen1024/digital-forensics-lab/blob/main/Lab%2003/files/starry_night.png).
 
 One tool used for detecting PNG steganography is `zsteg`, which can be installed using the command `sudo gem install zsteg`. 
 
@@ -331,12 +331,6 @@ With `steghide` tool, we can hide and extract messages out of JPEG files.
 # Audio Steganography
 
 In audio steganography, the most common method is to embed the message within the audio’s spectrum. However, this method makes the audio noisy. Another method is to embed the message within the least significant bits (LSBs).
-
-To detect audio steganography, tools such as Sonic Visualizer or Audacity can be used.
-
-To test it out, download the audio file from [https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab 03/files/super_secret_audio.wav](https://github.com/vonderchild/digital-forensics-lab/blob/main/Lab%2003/files/super_secret_audio.wav). 
-
-Next, open the file in Sonic Visualizer, and click Layer → Add Spectogram.
 
 ![Untitled](files/images/audio_steg.png)
 
