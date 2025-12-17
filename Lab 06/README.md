@@ -20,7 +20,7 @@ Disk image forensics is the process of analyzing a disk image to search for evid
 
 There are several tools that can be used for disk image forensics, such as Autopsy and FTK Imager. While Autopsy offers more features during analysis, we'll be using FTK Imager for its lightweight nature. 
 
-The tool can be downloaded from [https://www.exterro.com/ftk-imager](https://www.exterro.com/ftk-imager), so make sure you have installed FTK Imager on your computer before proceeding with the lab.
+The tool can be downloaded from [https://www.exterro.com/digital-forensics-software/ftk-imager](https://www.exterro.com/digital-forensics-software/ftk-imager), so make sure you have installed FTK Imager on your computer before proceeding with the lab.
 
 # Acquiring a Disk Image
 
