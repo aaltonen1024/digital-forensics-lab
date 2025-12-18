@@ -73,7 +73,7 @@ ERROR   : volatility.debug    : You must specify something to do (try -h)
 
 The import errors above indicate that the `distorm3` package is missing, but you can ignore them as we don't need that package for this lab. However, if you want to fix the errors, you can manually install the `distorm3` package.
 
-Now that we have installed volatility, the next step should be to get a memory dump to analyze. You can either use DumpIt or FTK Imager to collect one, or if you prefer, you can download the dump I've already acquired from [https://drive.google.com/file/d/1Gwe4jbv5qXO5WXQ-2p4N24HP6thC7l4Z/view?usp=sharing](https://drive.google.com/file/d/1Gwe4jbv5qXO5WXQ-2p4N24HP6thC7l4Z/view?usp=sharing).
+Now that we have installed volatility, the next step should be to get a memory dump to analyze. You can either use DumpIt or FTK Imager to collect one, or if you prefer, you can download the dump I've already acquired from [https://drive.google.com/file/d/1CoqtrTf7RmyAUYQlrZ0i8aiaGFvIEJrO/view?usp=sharing](https://drive.google.com/file/d/1CoqtrTf7RmyAUYQlrZ0i8aiaGFvIEJrO/view?usp=sharing).
 
 To provide our memory dump file as input to Volatility, we can use the `-f` option (remember to provide the full path to the dump file if it's not in the current directory):
 
@@ -251,4 +251,4 @@ It is suspected that the leader was using Windows 7 at the time, and had been hi
 
 The secret information you are looking for is in the form of a flag with the format `flag{xxxx}`, where `xxxx` represents a set of alphanumeric characters that make up the flag. There are a total of 4 flags that you need to find. Good luck!
 
-The memory dump can be downloaded from [https://drive.google.com/file/d/1Gm7huRq0aa1is1dv0LqJcABcRYlS-Sqn/view?usp=sharing](https://drive.google.com/file/d/1Gm7huRq0aa1is1dv0LqJcABcRYlS-Sqn/view?usp=sharing).
+The memory dump can be downloaded from [https://drive.google.com/file/d/1tu8Z-vxUl2khnB2jUtew-A9qTSlqnrTr/view?usp=sharing](https://drive.google.com/file/d/1tu8Z-vxUl2khnB2jUtew-A9qTSlqnrTr/view?usp=sharing).
