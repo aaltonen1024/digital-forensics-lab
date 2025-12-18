@@ -249,6 +249,6 @@ It is suspected that the leader was using Windows 7 at the time, and had been hi
 - It may have been executed as a command.
 
 
-The secret information you are looking for is in the form of a flag with the format `flag{xxxx}`, where `xxxx` represents a set of alphanumeric characters that make up the flag. There are a total of 5 flags that you need to find. Good luck!
+The secret information you are looking for is in the form of a flag with the format `flag{xxxx}`, where `xxxx` represents a set of alphanumeric characters that make up the flag. There are a total of 4 flags that you need to find. Good luck!
 
 The memory dump can be downloaded from [https://drive.google.com/file/d/1Gm7huRq0aa1is1dv0LqJcABcRYlS-Sqn/view?usp=sharing](https://drive.google.com/file/d/1Gm7huRq0aa1is1dv0LqJcABcRYlS-Sqn/view?usp=sharing).
