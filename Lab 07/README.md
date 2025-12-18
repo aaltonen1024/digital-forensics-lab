@@ -247,7 +247,7 @@ It is suspected that the leader was using Windows 7 at the time, and had been hi
 - It may have been searched for on the internet.
 - It may have been saved in an environment variable.
 - It may have been executed as a command.
-- It may have been drawn using MSPaint.
+
 
 The secret information you are looking for is in the form of a flag with the format `flag{xxxx}`, where `xxxx` represents a set of alphanumeric characters that make up the flag. There are a total of 5 flags that you need to find. Good luck!
 
