@@ -6,4 +6,4 @@
 - [Lab 5 — Network Traffic Forensics](/Lab%2005/)
 - [Lab 6 — Disk Image Forensics](/Lab%2006/)
 - [Lab 7 — Memory Forensics](/Lab%2008/)
-- [Lab 8 — Cracking Passwords](/Lab%2010/)
+
